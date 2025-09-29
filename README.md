@@ -15,6 +15,7 @@ A simple digital clock that displays the current time in hours, minutes, and sec
 
 **Preview:**
 ![Digital Clock](images/digital-clock.png)
+
 [Live Demo of Digital Clock](https://small-projects-zeta.vercel.app/)
 
 📁 [View Source Code](./52.Digital%20Clock%20Program)
