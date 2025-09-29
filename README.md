@@ -34,6 +34,8 @@ A basic stopwatch with start, stop, and reset functionality. It uses JavaScript 
 **Preview:**
 ![Stopwatch](images/stopwatch.png)
 
+[Live Demo of Digital Clock](https://small-projects-lqia.vercel.app/)
+
 📁 [View Source Code](./53.Stop%20Watch%20Program)
 
 ---
